@@ -1,4 +1,4 @@
-module bot-template
+module token-invalidator
 
 go 1.20
 
