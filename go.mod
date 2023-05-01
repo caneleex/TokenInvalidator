@@ -1,4 +1,4 @@
-module token_invalidator
+module token-invalidator
 
 go 1.20
 
